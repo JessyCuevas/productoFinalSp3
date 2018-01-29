@@ -3,5 +3,5 @@ using setTimeOut*/
 $(function(){
    setTimeout(function() {
     $('#splash').fadeOut(500);
-   }, 500);
+   }, 100000);
 });
