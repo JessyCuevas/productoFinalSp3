@@ -1,0 +1,61 @@
+body {
+
+}
+
+#splash {
+	background-color: #9CCAEC;
+	color: white;
+	height: 100vh;
+	width: 100%;
+}
+
+.user {
+	border: 1px solid black;
+	border-radius: 50px;
+	height: 10vh;
+}
+
+.logo {
+	margin-left: 20vh;
+	margin-top: 45vh;
+}
+
+.height {
+	height: 10vh;
+}
+
+input[type='file'] {
+	opacity: 0;
+	color: transparent;    
+}
+
+hr {
+	height: 1px;
+	color: #9CCAEC;
+	background-color: #9CCAEC;
+	margin: 2%;
+}
+
+.mt-5 {
+	margin-top: 5%;
+}
+
+.mt-8 {
+	margin-top: 8% !important;
+}
+
+.ml-5 {
+	margin-left: 5;
+}
+
+.glyphicon.glyphicon-picture {
+    font-size: 28px;
+}
+
+#post {
+	background-color: #FBE5F1; 
+	border: 1px solid #E52F8D;
+	border-radius: 5px;
+	margin-top: 1%;
+	padding-top: 1%;
+}
